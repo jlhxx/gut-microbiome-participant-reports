@@ -4,6 +4,21 @@ An R-based workflow for generating individualised participant-level PDF reports 
 ## Overview
 This repository contains an R workflow to turn microbiome sequencing data into accessible, individual participant reports. This may be necessary when providing participants a summary of their gut microbiome after study participation. The workflow integrates bacterial abundance data, taxonomic classifications, and sample metadata to generate individual PDF summaries of gut microbial community composition.
 
+## Example Report
+The images below show an example of the participant-level
+gut microbiome report generated using synthetic data.
+
+### Page 1 – Bacterial Family Composition
+
+![Example report – Page 1](example_report_page1.png)
+
+### Page 2 – Bacterial Species Composition
+
+![Example report – Page 2](example_report_page2.png)
+
+*Note: This example uses entirely synthetic data for
+demonstration purposes. No real participant data are shown.*
+
 ## Report Contents
 Each participant report contains two pages:
 ### Page 1 - Bacterial Family Composition
