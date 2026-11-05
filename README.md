@@ -1,5 +1,5 @@
 # Gut (Or Any Other) Microbiome Individual Participant Reports
-An R-based workflow for generating individualised participant-level PDF reports summarising microbiome composition. The gut microbiome is used as an example here.
+R-based workflow for generating individualised participant-level PDF reports summarising microbiome composition. The gut microbiome is used as an example here.
 
 ## Overview
 This repository contains an R workflow to turn microbiome sequencing data into accessible, individual participant reports. This may be necessary when providing participants a summary of their gut microbiome after study participation. The workflow integrates bacterial abundance data, taxonomic classifications, and sample metadata to generate individual PDF summaries of gut microbial community composition.
